@@ -26,7 +26,7 @@ $| = 1;
 our $VERSION = "1.2.0";
 
 use strict;
-use Nagios::Plugin;
+use Nagios::Plugin; 
 use DBI;
 use Storable;
 use Data::Dumper;
